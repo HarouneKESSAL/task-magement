@@ -64,15 +64,3 @@ What you need to install the software:
 
 Refer to the detailed API documentation sections in Insomnia on the available endpoints, including how to authenticate, create, manage, and delete tasks.
 
-## Contributing
-
-We welcome contributions from everyone. If you're interested in helping improve this project, check out the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Laravel Framework Team for providing an excellent framework.
-- All contributors and users of this project.
